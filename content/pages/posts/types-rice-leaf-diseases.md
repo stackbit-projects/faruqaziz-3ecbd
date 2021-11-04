@@ -13,9 +13,9 @@ seo:
 layout: post
 thumb_img_path: /images/Rice Leaf Diseases.webp
 ---
-****
+***
 
-****
+***
 
 **Blast** = oleh jamur , tanda umum = busuk leher / garis melebar berwarna coklat agak gelap
 
@@ -27,6 +27,12 @@ thumb_img_path: /images/Rice Leaf Diseases.webp
 tanda umum= bercak coklat / bulatan coklat dengan titik abu ditengahnya
 
 **Hispa**= serangga (ulat, larva) -> hama, tanda umum= pola garis-garis putih dan paralel di sepanjang sumbu utama daun
+
+
+
+![](/images/Rice%20Leaf%20Diseases-20770804.webp)
+
+
 
 ###### Blast
 
