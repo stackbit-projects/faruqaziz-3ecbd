@@ -13,7 +13,7 @@ seo:
       value: Faruq Aziz's Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: Freelancer and Lecture
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
