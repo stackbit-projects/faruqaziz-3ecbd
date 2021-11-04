@@ -6,7 +6,7 @@ thumb_img_alt: Penyakit - Penyakit Daun Padi
 excerpt: Penyakit - Penyakit pada Daun Padi
 hide_header: false
 seo:
-  title: ''
+  title: Rice Leaf Diseases
   description: ''
   robots: []
   extra: []
