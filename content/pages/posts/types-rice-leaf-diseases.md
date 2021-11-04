@@ -3,7 +3,7 @@ title: Penyakit Daun Padi
 subtitle: Jenis Penyakit pada Daun Padi
 date: '2021-11-04'
 thumb_img_alt: Penyakit - Penyakit Daun Padi
-excerpt: lorem-ipsum
+excerpt: Penyakit - Penyakit pada Daun Padi
 hide_header: false
 seo:
   title: ''
