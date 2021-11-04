@@ -14,6 +14,10 @@ layout: post
 thumb_img_path: /images/Rice Leaf Diseases.webp
 content_img_path: /images/Rice Leaf Diseases-89f74230.webp
 ---
+****
+
+****
+
 **Blast** = oleh jamur , tanda umum = busuk leher / garis melebar berwarna coklat agak gelap
 
 **Blight** = oleh bakteri, tanda umum= Bercak meluas berwarna hijau keabuan, kebasahan, daun menggulung, mengering dengan warna abu-abu keputihan
