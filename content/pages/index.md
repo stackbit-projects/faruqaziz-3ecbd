@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Faruq Aziz's Blog
-  description: The preview of the Fjord theme
+  description: Just do what I like
   extra:
     - name: 'og:type'
       value: website
