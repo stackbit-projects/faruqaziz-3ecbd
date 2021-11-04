@@ -5,7 +5,6 @@
     "header": {
         "title": "Faruq Aziz",
         "logo_img_alt": "Faruq Aziz",
-        "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
             {
