@@ -5,7 +5,7 @@
     "header": {
         "title": "Faruq Aziz",
         "logo_img_alt": "Faruq Aziz",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
