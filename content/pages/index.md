@@ -16,7 +16,7 @@ seo:
       value: Freelancer and Lecture
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /images/background-54f6b3fb.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
