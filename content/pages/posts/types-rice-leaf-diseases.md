@@ -7,7 +7,7 @@ excerpt: Penyakit - Penyakit pada Daun Padi
 hide_header: false
 seo:
   title: Rice Leaf Diseases
-  description: ''
+  description: Jenis Penyakit pada Daun Padi
   robots: []
   extra: []
 layout: post
