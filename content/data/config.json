@@ -15,7 +15,8 @@
             {
                 "label": "About",
                 "url": "https://faruq1997.netlify.app/",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "Contact",
