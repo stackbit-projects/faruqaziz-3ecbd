@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/Rice Leaf Diseases.webp
+content_img_path: /images/Rice Leaf Diseases-89f74230.webp
 ---
 ## Lorem ipsum
 
