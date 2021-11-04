@@ -1,6 +1,6 @@
 ---
 title: Deteksi Objek untuk Penyakit Daun Padi
-subtitle: lorem-ipsum
+subtitle: Jenis Penyakit Pada Daun Padi
 date: '2021-11-04'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
