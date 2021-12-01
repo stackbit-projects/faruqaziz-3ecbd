@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Cerita dihari kamis
 subtitle: lorem-ipsum
 date: '2021-11-09'
 thumb_img_alt: lorem-ipsum
