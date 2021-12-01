@@ -1,7 +1,7 @@
 ---
 title: Cerita dihari kamis
 subtitle: sebuah tulisan
-date: '2021-11-09'
+date: '2021-12-01'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
