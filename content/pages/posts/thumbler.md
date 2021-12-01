@@ -3,7 +3,7 @@ title: Cerita dihari kamis
 subtitle: sebuah tulisan
 date: '2021-12-01'
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: cerita dihari kamis
 hide_header: false
 seo:
   title: ''
